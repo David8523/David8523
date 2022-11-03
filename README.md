@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate aspiring Data Analyst from Madrid, Spain</h3>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<img align="right" alt="Coding" width="300" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
