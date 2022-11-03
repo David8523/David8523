@@ -34,6 +34,11 @@ sdf
 
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Get Microsoft certification FOR FREE](https://daviddelaiglesia.medium.com/get-microsoft-certification-for-free-69ed9a72563e?source=rss-df3c89dac51c------2)
+- [How to get 3 months of Datacamp premium FOR FREE](https://daviddelaiglesia.medium.com/how-to-get-3-months-of-datacamp-premium-for-free-b40201d1be49?source=rss-df3c89dac51c------2)
+- [How to prepare for a SQL technical interview](https://daviddelaiglesia.medium.com/how-to-prepare-for-a-sql-technical-interview-318af096f1e1?source=rss-df3c89dac51c------2)
+- [7 beginner resources for learning SQL](https://daviddelaiglesia.medium.com/7-beginner-resources-for-learning-sql-96d36e67692b?source=rss-df3c89dac51c------2)
+- [How to get REAL-WORLD EXPERIENCE as a data analyst](https://daviddelaiglesia.medium.com/how-to-get-real-world-experience-as-a-data-analyst-f101d1baa69d?source=rss-df3c89dac51c------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david8523&" alt="david8523" /></p>
