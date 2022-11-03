@@ -32,10 +32,8 @@ sdf
 <a href="https://www.google.es/intl/es/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" alt="google sheets" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Blogs posts
-
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david8523&" alt="david8523" /></p>
