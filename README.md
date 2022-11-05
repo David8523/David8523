@@ -13,7 +13,6 @@
 - 📄 Know about my experiences **[here](https://drive.google.com/file/d/1h8s-5PKr8e0m5zUilVKutqRuTjURO0OI/view?usp=sharing)**
 
 - ⚡ Fun fact **I love Basketball🏀**
-- asd
 
 
 <h3 align="left">Connect with me:</h3>
